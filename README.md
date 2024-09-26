@@ -32,3 +32,6 @@ To get started, clone the repository and install the required packages:
 git clone https://github.com/yourusername/Kiswahili-Hate-Speech-Detection.git
 cd Kiswahili-Hate-Speech-Detection
 pip install -r requirements.txt
+
+![world cloud offensive words](https://github.com/user-attachments/assets/0a651af2-f4eb-4eed-91ae-b628efadabc1)
+
