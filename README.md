@@ -20,6 +20,9 @@ For the image, you can create a simple diagram that visually represents your pro
 - **Model Training**: A depiction of a neural network or a training process
 - **Prediction**: An output example showing hate speech vs. non-hate speech
 
+  ![Uploading world cloud offensive words.png…]()
+
+
 You can use tools like Canva, Draw.io, or even Google Slides to create this diagram.
 
 Feel free to adjust any of the details to better suit your project! Let me know if you need more assistance.
@@ -33,8 +36,4 @@ git clone https://github.com/yourusername/Kiswahili-Hate-Speech-Detection.git
 cd Kiswahili-Hate-Speech-Detection
 pip install -r requirements.txt
 
-
-
-
-![world cloud offensive words](https://github.com/user-attachments/assets/2cc73ce6-6fe5-4df9-bef8-7bdb66ce080a)
 
