@@ -33,5 +33,7 @@ git clone https://github.com/yourusername/Kiswahili-Hate-Speech-Detection.git
 cd Kiswahili-Hate-Speech-Detection
 pip install -r requirements.txt
 
-![world cloud offensive words](https://github.com/user-attachments/assets/0a651af2-f4eb-4eed-91ae-b628efadabc1)
+[world cloud offensive words](https://github.com/user-attachments/assets/97727046-99f7-4ba9-8121-94909236b03e)
+
+
 
