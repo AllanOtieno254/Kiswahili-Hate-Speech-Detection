@@ -20,7 +20,7 @@ For the image, you can create a simple diagram that visually represents your pro
 - **Model Training**: A depiction of a neural network or a training process
 - **Prediction**: An output example showing hate speech vs. non-hate speech
 
-  ![Uploading world cloud offensive words.png…]()
+![world cloud offensive words](https://github.com/user-attachments/assets/e86f7290-2122-4c04-b278-20ee9f6e71ac)
 
 
 You can use tools like Canva, Draw.io, or even Google Slides to create this diagram.
