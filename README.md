@@ -22,6 +22,9 @@ For the image, you can create a simple diagram that visually represents your pro
 
 ![world cloud offensive words](https://github.com/user-attachments/assets/e86f7290-2122-4c04-b278-20ee9f6e71ac)
 
+![offensive vs non offensive pie chart](https://github.com/user-attachments/assets/685e0936-2a77-4561-ba1a-346db55c193c)
+
+
 
 You can use tools like Canva, Draw.io, or even Google Slides to create this diagram.
 
@@ -35,13 +38,3 @@ To get started, clone the repository and install the required packages:
 git clone https://github.com/yourusername/Kiswahili-Hate-Speech-Detection.git
 cd Kiswahili-Hate-Speech-Detection
 pip install -r requirements.txt
-
-![offensive vs non offensive pie chart](https://github.com/user-attachments/assets/b423f8e3-314c-4dda-90f6-3d60d2a86034
-
-
-![testing model using input box](https://github.com/user-attachments/assets/51d47e08-09e4-4181-b314-7d67f39fee1a)
-
-
-![confusion matrix3](https://github.com/user-attachments/assets/22b06b35-26a4-42a2-98e2-ca8d5c5cd97b)
-
-![testing model using input box](https://github.com/user-attachments/assets/5508c21d-ed85-4f27-ada9-cb59afd90ced)
